@@ -1,8 +1,8 @@
-﻿using E_Bookshop.Models;
+﻿using BOOKSHOP.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace E_Bookshop.Controllers
+namespace BOOKSHOP.Controllers
 {
     public class HomeController : Controller
     {
