@@ -1,8 +1,6 @@
 ﻿namespace E_Bookshop.Services.Interface
 {
-
-    public interface IBookService
+    public interface IPaymentService
     {
-
     }
 }
